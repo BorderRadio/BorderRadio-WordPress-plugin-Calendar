@@ -1,0 +1,206 @@
+# Translation of the WordPress plugin Editorial Calendar by stresslimitdesign.
+# Copyright (C) 2010
+# This file is distributed under the same license as the  package.
+#
+# COLIN VERNON <COLIN@STRESSLIMITDESIGN.COM>, 2010.
+# Michele <michele@ulteriora.net>, 2011.
+# dharman <dharman@datashit.net>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/editorial-calendar\n"
+"POT-Creation-Date: 2010-01-14 20:13+0000\n"
+"PO-Revision-Date: 2011-03-09 01:31+0100\n"
+"Last-Translator: dharman <dharman@datashit.net>\n"
+"Language-Team: American English <kde-i18n-doc@kde.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Lokalize 1.2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: borcal.php:60
+msgid "Calendar"
+msgstr "Calendario"
+
+#: borcal.php:71
+msgid "Palimpsest"
+msgstr "Palinsesto"
+
+#: borcal.php:328
+msgid "palimpsest"
+msgstr "palinsesto"
+
+#: borcal.php:130
+#: borcal.php:277
+msgid "en-US"
+msgstr "it_IT"
+
+#: borcal.php:138
+msgid "on"
+msgstr "su"
+
+#: borcal.php:139
+msgid "by"
+msgstr "da"
+
+#: borcal.php:140
+msgid "at"
+msgstr "a"
+
+#: borcal.php:142
+msgid "Add a post"
+msgstr "Ajouter un post"
+
+#: borcal.php:152
+msgid " [DRAFT]"
+msgstr " [BOZZA]"
+
+#: borcal.php:156
+msgid "Republish"
+msgstr "Ripubblica"
+
+#: borcal.php:157
+msgid "Kind"
+msgstr "Tipo"
+
+#: borcal.php:270
+msgid "Show on screen"
+msgstr "Mostra sullo schermo"
+
+#: borcal.php:272
+msgid "Show in Calendar Cell"
+msgstr "Mostra nella casella del calendario"
+
+#: borcal.php:275
+msgid "Author"
+msgstr "Autore"
+
+#: borcal.php:275
+msgid "Time of day"
+msgstr "Orario"
+
+#: borcal.php:158
+msgid "Cancel"
+msgstr "Annulla"
+
+#: borcal.php:159
+msgid "Title"
+msgstr "Titolo"
+
+#: borcal.php:159
+msgid "Content"
+msgstr "Contenuto"
+
+#: borcal.php:383
+msgid "Time"
+msgstr "Orario"
+
+#: borcal.php:160
+msgid "Save Draft"
+msgstr "Salva bozza"
+
+#: borcal.php:161
+msgid "Save and Edit Draft"
+msgstr "Salva e modifica bozza"
+
+#: borcal.php:162
+msgid "New Schedule"
+msgstr "Nuova Programmazione"
+
+#: borcal.php:162
+msgid "Scheduled"
+msgstr "Pianificato"
+
+#: borcal.php:162
+msgid "Add a new schedule on %s"
+msgstr "Aggiungi una nuova programmazione su %s"
+
+#: borcal.php:277
+msgid "Select the number of weeks for the calendar to show."
+msgstr "Selezionare il numero di settimane da mostrare nel calendario."
+
+#: borcal.php:277
+msgid "Scroll the calendar and make the today visible"
+msgstr "Scorrere il calendario fino a mostrare oggi"
+
+#: borcal.php:164
+msgid "You are about to delete this schedule."
+msgstr "Si stà per eliminare questo programma."
+
+#: borcal.php:165
+msgid "Press No to stop, Yes to delete."
+msgstr "Premere No per interrompere, Sì per cancellare"
+
+#: borcal.php:167
+msgid "Looks like someone else already moved this post."
+msgstr "Quelqu'un d'autre a déjà déplacé ce post."
+
+#: borcal.php:168
+msgid "You do not have permission to edit posts."
+msgstr "Vous n'avez pas les permissions d'éditer les posts."
+
+#: borcal.php:169
+msgid ""
+"Invalid checksum for post. This is commonly a cross-site scripting error."
+msgstr ""
+"Désolé, le post est corrompu, il se peut que ce soit une erreur de "
+"'cross-site scripting' (XSS)."
+
+#: borcal.php:170
+msgid "There was an error contacting your blog."
+msgstr "Si è verificato un errore contattando il tuo blog."
+
+#: borcal.php:172
+msgid "Screen Options"
+msgstr "Opzioni schermo"
+
+#: borcal.php:173
+msgid "Calendar Options"
+msgstr "Opzioni del calendario"
+
+#: borcal.php:174
+msgid "Apply"
+msgstr "Applica"
+
+#: borcal.php:175
+msgid "Show"
+msgstr "Mostra"
+
+#: borcal.php:176
+msgid "weeks at a time"
+msgstr "settimane alla volta"
+
+#: borcal.php:177
+msgid "The calendar can only show between 1 and 5 weeks at a time."
+msgstr "Il calendario può visualizzare solo da 1 a 5 settimane per volta"
+
+#: borcal.php:178
+msgid "Enter the number of weeks, between 1 and 5, for the calendar to show."
+msgstr "Inserire il numero di settimane, da 1 a 5 da mostrare nel calendario"
+
+#: borcal.php:214
+msgid "Posts Calendar"
+msgstr "Calendrier de posts"
+
+#: borcal.php:223
+msgid "Jump back"
+msgstr "Torna indietro"
+
+#: borcal.php:225
+msgid "Skip ahead"
+msgstr "Vai avanti"
+
+#: borcal.php:230
+msgid "Jump to today"
+msgstr "Vai a oggi"
+
+#: borcal.php:230
+msgid "Today"
+msgstr "Oggi"
+
+#: borcal.php:361
+#: - this is the time format (12 hour or 24 hour)
+msgid "ga"
+msgstr "H"
